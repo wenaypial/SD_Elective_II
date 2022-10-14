@@ -1,0 +1,94 @@
+div{
+    background-color:  #E3BC9A;
+    width: 80%;
+    margin-left: 9%;
+    border-radius: 2px;
+}
+
+.col{
+    /* background-color:  blue; */
+    width: 34%;
+    margin-left: 1%;
+    float:left;
+    font-size: 1.1vw;
+}
+img{
+    width: 40%;
+    margin-left: 35%;
+    margin-top: -7%;
+    border-radius: 70px;
+}
+
+.col1{
+    /* background-color:  blue; */
+    width: 98%;
+    margin-left: 1%;
+    font-size: 1.3vw;
+}
+.info{
+    float: right;
+}
+
+.col2{
+    /* background-color:  blue; */
+    width: 49%;
+    margin-left: 1%;
+    float:left;
+    font-size: 1.3vw;
+}
+
+.col3{
+/* background-color:  blue; */
+width:49%;
+margin-left: 1%;
+float: left;
+font-size: 1.3vw;
+}
+
+.col5{
+    /* background-color:  blue; */
+    width:49%;
+    margin-left: 1%;
+    float: left;
+    font-size: 1.3vw;
+}
+
+.col6{
+    /* background-color:  blue; */
+    width:49%;
+    margin-left: 1%;
+    float: left;
+    font-size: 1.3vw;
+}
+.address{
+    margin-left: 1%;
+}
+.cola{
+    /* background-color:  blue; */
+    width: 29%;
+    margin-left: 1%;
+    float:left;
+    font-size: 1.1vw;
+}
+.add{
+margin-left: 10%;
+}
+
+.name{
+    text-align: center;
+    font-size: 2vw;
+}
+.col7{
+    margin: 5%;
+    font-size: 1.3vw;
+}
+.head{
+    background-color: black;
+    height: 2vh;
+}
+hr{
+    height:3px;
+    background-color:#AE8B70;
+}
+
+ 
